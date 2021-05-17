@@ -1,0 +1,12 @@
+# =========================
+# Additional Files and Directories to Ignore
+# =========================
+*.cs.meta
+*.meta
+*.png
+*.vs
+*.sln
+*.ts
+*.js
+Content/StarterContent
+Content/Scripts/
