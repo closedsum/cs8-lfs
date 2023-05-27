@@ -1,0 +1,28 @@
+Summary
+
+1x Character
+- Skeleton King
+
+1x Attachment
+- Mace
+
+Attached
+- Guide
+- Raw Images of poses and anything else you may need.
+
+NOTES:
+
+Rig
+- Bone Layout is just a loose suggestion so you know the names and roughly the layout
+
+Hand
+- The hand doesn't need extra bones (for fingers, ... etc)
+- The default "pose" for the hands can be closed, like the character is already holding something
+
+Black Parts
+- The Black parts (ribs, pelvis, eyes, and nose) are NOT hallow. That will be "filled" in by the
+  texture.
+
+Max Triangle Counts are just suggestions, use your best judgment.
+- 12K for Character
+- 2.5K for Weapon

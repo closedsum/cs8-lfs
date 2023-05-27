@@ -1,0 +1,8 @@
+Title:
+
+Choice: B
+
+More contrast between the Title lettering and the Tree background.
+- Not sure if this is because the Letter outline is blending with Tree background
+  because of the same color?
+- Need the lettering to pop out a bit more

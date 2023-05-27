@@ -1,0 +1,63 @@
+General Notes
+- Rough scale of characters with respect to Player Character
+- Player Character is the same size as Skeleton Grunt
+- Most important thing for me is an interesting silhouette / shape of the character.
+
+1. Skeleton Grunt
+- No Armor / Clothing
+- Moves Slow
+- Melee Attack
+
+2. Skeleton Runner
+- No Armor / Clothing or very Light 
+- Moves Very Fast
+- Fast Melee Attack
+
+3. Skeleton Soldier
+- Very Light Armor / Clothing
+- Moves Slow
+- Has Weapon
+- Melee Attack
+
+4. Skeleton Archer
+- Very Light Armor / Clothing
+- Moves Slow
+- Attack with Bow and Arrow
+
+5. Skeleton Brute
+- Very Light Armor
+- Can be a "fat" / obese
+- Moves Slow
+- Has Weapon
+- Slow Melee Attack
+
+6. Skeleton Warrior
+- Medium Armor / Clothing
+- Moves Medium Speed
+- Has Shield
+- Has Sword
+- Melee Attack
+
+7. Skeleton Elite
+- Medium Armor / Clothing
+- Moves Medium Speed
+- Has Weapon
+- Melee Attack
+
+8. Skeleton Knight
+- Mini-Boss
+- High Armor / Clothing
+- Moves Slow
+- Has Shield
+- Has Weapon
+- Melee Attack
+
+9. Skeleton King
+- Boss
+- Medium / High Armor / Clothing
+- Has Crown
+- Moves Slow
+- Has Weapon
+- Melee Attack
+- AOE Attack
+- Dash Attack

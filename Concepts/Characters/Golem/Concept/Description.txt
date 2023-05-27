@@ -1,0 +1,21 @@
+"Realm Protector" or Golem
+- Serves a guardian, 1 for each of the 9 realms
+- Should strongly represent the elements of the particular realm 
+  the Golem protects (i.e. an Rock Golem protects a rocky environment, this doesn't have to be exact just in that direction)
+- All bipedal (two arms and two legs)
+- The Golem is relatively big, see the scale comparison between
+  Player (1), Boss (2), and Realm Protector (3)
+- Feel free to exagerate / be creative with proporations
+- Feel free to exaggerate the head
+
+9 Realms
+
+1. Svartalfheim
+2. Midgard
+3. Vanaheim
+4. Niflheim
+5. Helheim
+6. Jotunheim
+7. Muspelheim
+8. Alfheim
+9. Asgard

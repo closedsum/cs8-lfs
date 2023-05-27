@@ -1,0 +1,13 @@
+Proportion
+- Make the Lower arm longer, probably 1.75x - 2x
+- Make the Hand a little larger, try 1.25x and make it a little more rounded
+
+Rigging
+- weighting of clavicle_r
+- Add Jaw bone
+
+Normals
+- The normals seemed to flipped on:
+-- Upper arm (left and right)
+-- Thigh (left and right)
+-- Calf (left and right)

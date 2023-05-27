@@ -1,0 +1,6 @@
+1. Blade Side 1 - 116, 118, 105
+2. Blade Side 2 - 204, 204, 201
+3. Blade Inner - 125, 127, 117
+4. Hilt - 41, 48, 41
+5. Handle - 59, 60, 140
+6. Base - 45, 53, 45

@@ -1,0 +1,16 @@
+1. Helmet - 165, 165, 165
+2. Horn End - 35, 35, 35
+3. Horn Start - 185, 177, 163
+4. Eyes/Nose/Ribs Space - 0, 0, 0
+5. Teeth - 159, 156, 112
+6. Jaw - 190, 188, 152
+7. Necklace - 72, 63, 56
+8. Gem Socket - 146, 165, 161
+9. Gem / Trim - 73, 94, 157
+10. Shoulder - 127, 91, 43
+11. Torso/Spine - 187, 185, 146
+12. Upperarm - 160, 158, 112
+13. Lowerarm/Hands - 182, 179, 135
+14. Pelvis - 169, 168, 146
+15. Legs/Feet - 194, 192, 153
+16. Boots - 113, 74, 29

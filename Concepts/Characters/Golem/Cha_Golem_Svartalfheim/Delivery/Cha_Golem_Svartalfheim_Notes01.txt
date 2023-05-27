@@ -1,0 +1,60 @@
+TEXTURE
+
+Cha_Golem_Svartalfheim_texture_fixes06
+Cha_Golem_Svartalfheim_texture_fixes04
+Cha_Golem_Svartalfheim_texture_fixes03
+
+- The "weathering" effect looks really bad bc you can see the where the geometry comes splits
+-- Do a better job of painting / blending this
+
+Cha_Golem_Svartalfheim_texture_fixes05
+
+- Make the eye look more like a gem (I provided a reference on how a gem should be painted)
+-- Cha_Golem_Svartalfheim_example_eye_gem_cut
+
+Cha_Golem_Svartalfheim_texture_fixes02
+
+- Make the Rune / Lettering sharper. 
+- Make the Letter as geometry.
+-- it would be easier to texture / create a mask later
+
+Cha_Golem_Svartalfheim_texture_fixes01
+
+- These don't look like gems at all. Look at the reference I provide on how a stylized gem should look.
+-- Create a gradient in the color from bottom to top (dark to light)
+-- Make sure to do proper texturing of the "weathered" effeect at edges
+-- All these gems occupy the same UV space, so they should look basically the same. You can rotate them
+   differently so they don't all uniform
+-- The example just illustrate the texturing not the color. It should still be pink / purple.
+--- Cha_Golem_Svartalfheim_example_gem_example
+
+GEOMETRY
+
+Cha_Golem_Svartalfheim_z_fighting_feet
+
+- Z-fighting on the bottom of the feet
+-- The player will probably see the feet when the Golem dies, so adjust this
+   so there isn't any z-fighting.
+
+Cha_Golem_Svartalfheim_eye_fix
+
+- This just looks the eye is "stuck" on. Push the back of the geometry back so 
+  it seems like the eye is more a part of the character
+
+RIGGING
+
+Cha_Golem_Svartalfheim_rigging_fixes01
+
+- If I move the some of the spine bones, the Torso gets exposed.
+-- Either weight the Torso better or extend the geometry of the Torso upwards so this
+   doesnt happen.
+
+Cha_Golem_Svartalfheim_hand_closed_position
+
+- Put the default bose of the hand in a "closed" / fist position
+-- You may need to add an extra row of "digits" / finger joints so it doesn't look awkward / bad
+
+Cha_Golem_Svartalfheim_geometry_fixes01
+
+- The bottom of the pelvis doesn't look symetrical
+- Also, round out the geometry more

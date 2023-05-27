@@ -1,0 +1,29 @@
+1.House of Magic
+- Buy ability (usually magical) upgrades
+2.Bestiary
+- Buy magical pets
+3.Mercenary
+- Hire NPCs
+4.Blacksmith
+- Upgrade weapons
+5.Herbalist / Apothecary
+- Buy potions
+6.Bank
+- Despoit and Retrieve Money
+7.Altar / Shrine
+- Get random items
+- Sacrifice things
+- Pay homage to a god
+
+
+
+FUTURE
+
+Magical Tower
+- Fire elemental attacks (Fire, Ice, Poison, ... etc)
+
+Archer Tower
+- Fires different arrows / ballista
+
+Tavern ("Bar")
+

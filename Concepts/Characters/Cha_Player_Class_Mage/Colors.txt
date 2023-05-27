@@ -1,0 +1,61 @@
+1. Cap Top: 246, 56, 20
+2. Cap : 68, 29, 16
+3. Cap Flap: 226, 81, 10
+4. Eyes: 0, 0, 0
+5. Face: 255, 255, 255
+6. Head Cover: 0, 0, 0
+7. Neck: 43, 58, 68
+8. Upperarm: 40, 106, 111
+9. Lowerarm: 35, 77, 87
+10. Hands: 255, 255, 255
+11. Torso: 135, 109 86
+12. Amulet: 241, 197, 78
+13. Robe: 39, 132, 127
+14. Belt: 102, 111, 114
+15. Belt Strap: 151, 55, 14
+16. Legs: 86, 59, 61
+
+Staff 01
+
+1. Base 01: 106, 64, 43
+2. Orb: 19, 73, 223
+3. Metal Bits: 237, 196, 74
+4. Base 02: 162, 91, 56
+
+Staff 02
+
+1. Horn: 131, 136, 140
+2. Orb Top: 67, 232, 82
+3. Orb Middle: 50, 190, 115
+4. Orb Bottom: 61, 80, 57
+5. Horn Bracket: 78, 78, 69
+6. Top Base 01: 78, 89, 67
+7. Top Base 02: 101, 106, 97
+8. Top Center: 56, 102, 92
+9. Top Shaft: 44, 54, 46
+10. Top Brace: 91, 96, 88
+11. Bottom Shaft: 36, 39, 30
+12. Base Top: 55, 65, 55
+13. Base Trim: 96, 107, 91
+14. Base Inside: 92, 116, 71
+
+Staff 03
+
+1. Gem: 123, 209, 214
+2. Gem Inner: 72, 160, 164
+3. Gem Outer: 92, 130, 139
+4. Gem Holder: 134, 105, 94
+5. Gem Holder Center: 194, 178, 163
+6. Holder Pin: 95, 75, 66
+7. Top Ring: 45, 21, 17
+8. Shaft: 99, 74, 70
+
+Staff 04
+
+1. Staff Outer: 241, 246, 246
+2. Staff Inner: 223, 229, 229
+3. Shaft Top: 110, 140, 134
+4. Brace: 189, 99, 101
+5. Shaft Middle: 75, 80, 110
+6. Shaft Bottom: 117, 91, 108
+7. Bottom: 209, 235, 234

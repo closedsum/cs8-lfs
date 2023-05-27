@@ -1,0 +1,33 @@
+Here is the new order request:
+
+Summary:
+
+1x Character
+1x Attachments
+- 1x Weapon
+
+Files:
+
+1x Guide (.pdf)
+1x Raw Images (.zip)
+Boss Character
+
+Skeleton King
+
+Notes:
+1. Like the previous models, you guys did a great job modeling and rigging it. Use the same approach with this model, by making the "head" elements separate so it makes rigging and skin weights easier / better.
+2. This character is the TALLER as the standard unreal character (about 240 cm) (I'm using the Solder Brute as a reference). There is an image to give you a sense of scale.
+3. This character is the TALLER as a previous model (about 240 cm), Cha_Hu_Brute (180 cm)
+4. Feel free to improvise where needed
+5. Triangle / Polygon is higher. So feel free to use more triangles where necessary.
+- 12k for Character
+- 2.5k for Weapon
+
+
+GEOMETRY
+6. For Collar / Neck region, try make it a little hollow.
+
+RIGGING
+
+7. There is NO visible neck in the normal sense. This is intentional.
+8. Extra bone parented to head is: hat

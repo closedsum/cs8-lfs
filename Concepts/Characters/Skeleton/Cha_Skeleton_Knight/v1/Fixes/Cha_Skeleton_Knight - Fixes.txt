@@ -1,0 +1,26 @@
+GEOMETRY
+
+Upper Torso
+- Sides near the Lower Torso sections need to rounded out a little
+- Back is not welded to the Mid secions, there is a gap / hole
+
+Lower Torso
+- Round out the geo a little
+
+Character is "hollow"
+- Look for underneath the character.
+- The bottom should be "capped" / sealed
+-- This will help with animation
+
+Pelvis
+- Round out the armor near the thighs (try to follow the concept a little more for this part)
+
+RIGGING
+
+- Thigh
+-- bottom portion of thigh is not rigged properly to thigh_r and thigh_l
+
+- spine_02
+-- Missing from Rig
+
+- Rename spine03 to spine+_03

@@ -1,0 +1,52 @@
+Player Character
+- Female protagonist and Male (Father) supporting character
+- Player is able to choose between 3 classes
+-- Mage
+-- Warrior
+-- Hunter
+- The class is basically a different clothing / amror set and weapon
+  for the same Female protagonist and Male supporting character respectively
+
+Humanoid Characters
+- Do not have any traditional distinct facial features
+like a nose and mouth.
+- Instead the features of eyes, nose, mouth are represented via a mask or helmet 
+
+1. Player Character - Young Female (Early 20s) - No class
+- Basic clothing
+- No distinct facial features
+- Has
+
+2. Player Character - Young Female (Early 20s) - Mage
+- Light Armor
+- Has Magic Staff
+
+3. Player Character - Young Female (Early 20s) - Warrior
+- Heavy Armor
+- Has Axe
+- Has Shield
+
+4. Player Character - Young Female (Early 20s) - Hunter
+- Medium Amor
+- Has Bow and Arrow
+
+5. Witch
+- Dressed in tattered robes
+
+6. Player Character - Older Male (40s) - No class
+- Basic clothing
+- No distinct facial features
+- Has
+
+7. Player Character - Older Male (40s) - Mage
+- Light Armor
+- Has Magic Staff
+
+8. Player Character - Older Male (40s) - Warrior
+- Heavy Armor
+- Has Axe
+- Has Shield
+
+9. Player Character - Older Male (40s) - Hunter
+- Medium Amor
+- Has Bow and Arrow
