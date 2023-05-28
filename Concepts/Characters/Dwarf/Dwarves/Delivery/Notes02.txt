@@ -1,0 +1,12 @@
+Skeleton Knight
+- A2 and A3
+-- Helmet and Shield designs are good
+-- Helmet
+--- A2 wings can be 30% bigger
+--- A3 horns can be 30% bigger
+-- Spear
+--- Lets try to come up with with slightly more unique / exaggerated designs. You can push more into a Halberd, Polearm, or Scythe direction
+if that helps.
+
+I think the shoulder (pauldrons) designs should be varied as well. I think
+this will help the characters feel a little more unique.

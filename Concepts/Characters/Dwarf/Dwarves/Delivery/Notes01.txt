@@ -1,0 +1,40 @@
+Warrior
+- Make helmet - 30% bigger
+- Missing: Concept for a weapon (Single hand Axe)
+- Helmet
+-- Horns
+--- 1.5x (150% or 50% bigger) the isze
+
+Engineer
+- Size will be about 0.9x (90%) the size of a normal character
+
+Ranger
+- Size will be about 0.9x (90%) the size of a normal character
+- Maybe should be a little wider / stout? bc of the size change?
+- Helmet
+-- Antlers
+--- 1.3x (130% or 30% bigger) the size
+
+Archer
+- Size will be about 0.8x (80%) the size of a normal character
+
+Champions
+- Make all the helmets - 30% bigger
+- Size will about 1.2x (120%) the size of a normal character
+- D3
+-- Helmet
+--- Horns
+---- 1.5x (150% or 50% bigger) the size
+- D2
+-- Helmet
+--- Horns
+---- 1.5x (150% or 50% bigger) the size
+- D1
+-- Helmet
+--- Horns
+---- 1.5x (150% or 50% bigger) the size
+
+Guardian
+- Size will about 1.5x (150%) the size of a normal character
+- Weapon
+-- Axe head should be 50% bigger
