@@ -1,0 +1,19 @@
+8 Gnomes
+
+- 3 "special"
+-- 1 "large"
+-- 1 "mage"
+-- 1 "warrior"
+
+Variations
+- Beard
+-- Length
+-- Type (curly, mustasche "heavy", .. etc)
+-- Color
+- Hat
+-- Skinny
+-- Fat
+-- Very Long
+-- Short
+-- Color
+--- Patterned
