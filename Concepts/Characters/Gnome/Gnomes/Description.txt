@@ -1,16 +1,23 @@
 8 Gnomes
 
-- 3 "special"
--- 1 "large"
+- 4 "special" Gnomes
+-- 1 "unique"
+--- Gnome_Idea_12: is a pretty cute / interesting idea
 -- 1 "mage"
+--- Gnome_Idea_08: Tall pointy hat / look gives a nice wizard vibe 
 -- 1 "warrior"
+--- Gnome_Idea_07: Cute. I think some elements still need more exaggeration
+-- 1 "theif"
+--- Should have a bag its carrying. Think treasure goblin.
 
 Variations
 - 3 Primary Features
--- Hat
--- Beard
--- Nose
+-- These should be prominent / exaggerated the most.
+1. Hat
+2. Beard
+3. Nose
 
+Ideas
 - Hat
 -- Skinny
 -- Fat
@@ -22,4 +29,8 @@ Variations
 -- Length
 -- Type (curly, mustasche "heavy", .. etc)
 -- Color
-- Nose
+
+Misc
+- Gnome_Idea_03
+-- Reminds of the Knights who say "Ni" from Might Python
+-- This could be a fun variation.
