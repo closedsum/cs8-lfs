@@ -1,0 +1,27 @@
+Summary
+
+1x Character
+
+- Cha_Dwarf_Archer_v2c
+
+2x Attachment
+
+- 1x Weapon
+
+-- Wp_Dwarf_Archer_v2c_Bow
+
+- 1x Equipment
+
+-- Eq_Dwarf_Archer_2c_Arrow
+
+Make sure to include blender and .psd files.
+
+NOTES:
+- Rig: 
+-- The documents provides a loose outline of how the bones should be laid out. Ultimately use your best judgment.
+-- Please use the SAME bone names. It makes it easier for retargeting animations in Unreal
+- Geometry:
+-- Triangle counts are just a guideline. Most of the time you can use significantly less, but if you need to push more that is okay (as long its
+NOT more than 2x the suggested triangle count).
+
+Let me know if you have any questions.
