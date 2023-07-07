@@ -1,0 +1,7 @@
+A "rogue" unit
+A ranged unit
+A "big" unit
+A "warrior" type unit
+A "berserker" type unit
+3 mini boss units
+1 boss unit
